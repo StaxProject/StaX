@@ -1,21 +1,57 @@
-MIT License
+APACHE LICENSE
+                            Version 2.0, January 2004
 
-Copyright (c) 2024 StaxProject
+COPYRIGHT
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+   Copyright 2024, StaX company.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+TRADEMARKS
+
+   The names, trademarks, service marks and logos of "StaX" (the "Trademark")
+   may not be used in any advertising or publicity, or otherwise to indicate
+   sponsorship of or affiliation with any product or service, without prior
+   express written permission from "StaX". The use of the Trademark in the
+   documentation of "StaX" shall not be considered to be an endorsement by "StaX"
+   of the product or service.
+
+DISTRIBUTION
+
+   "StaX", including modifications, patches, derivative works, or various
+   enhancements, may only be distributed under the terms of this License.
+   You may create derivative works based on "StaX", but you must include
+   notice of copyright and this License in them. Derivative works must be marked
+   as such and may not be distributed for commercial purposes without the prior
+   written consent of "StaX".
+
+   "StaX" is distributed in the form of "py and exe files" and may
+   only be distributed in accordance with the terms of this License.
+   You may provide source code and compiled versions of "StaX"
+   for free distribution, but you are not entitled to charge for access
+   to or use of this software.
+
+ACCEPTANCE OF LICENSE
+
+   You may accept the terms of this License by providing a copy
+   of "StaX" or a derivative work based on it. By doing so, you agree to comply
+   with the terms of this License for all subsequent distributions
+   of "StaX" or its derivatives.
+
+DISCLAIMER OF WARRANTY
+
+   This software is provided "as is", without any warranties or conditions,
+   express or implied. Under applicable law, disclaimers of warranty do not
+   apply to cases of damage caused by unintentional actions or omissions,
+   or to cases of consequential or incidental damages.
+
